@@ -1,2 +1,4 @@
 # teknik-peramalan
-Arsip Tugas MK Teknik Peramalan
+Arsip Tugas Mata Kuliah Teknik Peramalan
+
+*Archive of Forecasting Techniques Course Assignments*
